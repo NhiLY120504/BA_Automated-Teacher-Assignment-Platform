@@ -36,7 +36,7 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 ---
 
 ## 5. System Analysis Artifacts
-*Dưới đây là các tài liệu phân tích chi tiết cho hệ thống (Vui lòng click vào từng dòng để xem file PDF):*
+*Below are the detailed analysis documents for the system:*
 
 * [BPMN diagrams](diagrams/BPMN)
 * [Class diagram](diagrams/Class%20diagram)
@@ -49,7 +49,6 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 🔗 **[View in Figma](link-figma-cua-ban-o-day)**
 
 ### Preview Interfaces
-*Dưới đây là hình ảnh trực quan của hệ thống:*
 
 #### Mobile App for Teachers
 ![Teacher Interface](đường-dẫn-hình-anh-mockup-1.png)
