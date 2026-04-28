@@ -38,10 +38,10 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 ## 5. System Analysis Artifacts
 *Dưới đây là các tài liệu phân tích chi tiết cho hệ thống (Vui lòng click vào từng dòng để xem file PDF):*
 
-* 📂 [BPMN Diagrams](đường-dẫn-đến-file-bpmn.pdf)
-* 📂 [DFD (Context → Level 0 → Level 1)](đường-dẫn-đến-file-dfd.pdf)
-* 📂 [Use Case, Class, Sequence, Activity Diagrams](đường-dẫn-đến-file-uml.pdf)
-* 📂 [ERD + Data Normalization + Physical DB schema](đường-dẫn-đến-file-database.pdf)
+* [BPMN diagrams](diagrams/BPMN)
+* [Class diagram](diagrams/Class%20diagram)
+* [Sequence disgrams](diagrams/Sequence)
+* [Use case diagram](diagrams/Use%20case)
 
 ---
 
