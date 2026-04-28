@@ -45,7 +45,7 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 
 ---
 
-## 6. Mockups 
+## 6. Mockups (figma)
 ### Wireframe
 ![Wireframe](images/Wireframe.png)
 
