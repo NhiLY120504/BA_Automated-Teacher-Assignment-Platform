@@ -51,10 +51,10 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 ### Preview Interfaces
 
 #### Mobile App for Teachers
-![Teacher Interface](đường-dẫn-hình-anh-mockup-1.png)
+![Interface 1](images/Interface1.png)
 
 #### Admin Dashboard
-![Admin Dashboard](đường-dẫn-hình-anh-mockup-2.png)
+![Interface 2](images/Interface2.png)
 
 #### Automated Scheduling Process
-![Process Flow](đường-dẫn-hình-anh-mockup-3.png)
+![Interface 3](đường-dẫn-hình-anh-mockup-3.png)
