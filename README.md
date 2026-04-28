@@ -46,7 +46,8 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 ---
 
 ## 6. Mockups 
-🔗 **[View in Figma](link-figma-cua-ban-o-day)**
+### Wireframe
+![Wireframe](images/Wireframe.png)
 
 ### Preview Interfaces
 
@@ -57,3 +58,6 @@ This simulated system was designed for Alpha Kids Talent Center – a company th
 ![Interface 3](images/Interface3.png)
 
 ![Interface 4](images/Interface4.png)
+
+### System interface for HR
+![Interface 1](images/System%20interface%20for%20HR.png)
